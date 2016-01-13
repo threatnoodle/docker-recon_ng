@@ -1,0 +1,8 @@
+# Example public nameservers
+# set NAMESERVER 208.67.222.222
+# set NAMESERVER 198.153.192.50
+# set NAMESERVER 198.153.194.50
+# set NAMESERVER 8.20.247.20
+# set NAMESERVER 8.26.56.26
+set NAMESERVER 208.67.220.220
+set USER-AGENT Mozilla/5.0 (Windows NT 6.1; rv:38.0) Gecko/20100101 Firefox/38.0
